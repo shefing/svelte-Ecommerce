@@ -14,3 +14,4 @@ dev-dist
 .vercel_build_output
 $houdini
 $kitql
+/.*
